@@ -1,0 +1,18 @@
+c:\users\brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.exe.config
+c:\users\brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.exe
+c:\users\brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.pdb
+c:\users\brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.csprojResolveAssemblyReference.cache
+c:\users\brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.exe
+c:\users\brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.pdb
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe - Final Objects\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.exe.config
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe - Final Objects\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.exe
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe - Final Objects\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.pdb
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe - Final Objects\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.exe
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe - Final Objects\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.pdb
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\VisualStudio\ObjectsCSharpe - Final Objects\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\prog2500-c-sharpe\ObjectsCSharpe - Final Objects\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.exe.config
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\prog2500-c-sharpe\ObjectsCSharpe - Final Objects\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.exe
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\prog2500-c-sharpe\ObjectsCSharpe - Final Objects\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.pdb
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\prog2500-c-sharpe\ObjectsCSharpe - Final Objects\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.exe
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\prog2500-c-sharpe\ObjectsCSharpe - Final Objects\ObjectsCSharpe\bin\Debug\ObjectsCSharpe.pdb
+C:\Users\Brandon\Documents\Laptop School\NSCC\Year2Semester2\prog2500-c-sharpe\ObjectsCSharpe - Final Objects\ObjectsCSharpe\obj\Debug\ObjectsCSharpe.csprojResolveAssemblyReference.cache

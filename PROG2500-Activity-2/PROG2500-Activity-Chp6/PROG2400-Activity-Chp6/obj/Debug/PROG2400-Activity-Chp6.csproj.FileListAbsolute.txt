@@ -1,0 +1,7 @@
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2400-Activity-Chp6\PROG2400-Activity-Chp6\bin\Debug\PROG2400-Activity-Chp6.exe.config
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Activity-Chp6\PROG2400-Activity-Chp6\bin\Debug\PROG2400-Activity-Chp6.exe.config
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Activity-Chp6\PROG2400-Activity-Chp6\bin\Debug\PROG2400-Activity-Chp6.exe
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Activity-Chp6\PROG2400-Activity-Chp6\bin\Debug\PROG2400-Activity-Chp6.pdb
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Activity-Chp6\PROG2400-Activity-Chp6\obj\Debug\PROG2400-Activity-Chp6.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Activity-Chp6\PROG2400-Activity-Chp6\obj\Debug\PROG2400-Activity-Chp6.exe
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Activity-Chp6\PROG2400-Activity-Chp6\obj\Debug\PROG2400-Activity-Chp6.pdb

@@ -1,0 +1,9 @@
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\bin\Debug\PROG2500-Assignment1-Chp5.exe.config
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\bin\Debug\PROG2500-Assignment1-Chp5.exe
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\bin\Debug\PROG2500-Assignment1-Chp5.pdb
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\obj\Debug\PROG2500-Assignment1-Chp5.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\obj\Debug\PROG2500-Assignment1-Chp5.exe
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\VisualStudio\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\obj\Debug\PROG2500-Assignment1-Chp5.pdb
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\PROG2500-CSharp\PROG2500-Activity-1\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\bin\Debug\PROG2500-Assignment1-Chp5.exe.config
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\PROG2500-CSharp\PROG2500-Activity-1\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\obj\Debug\PROG2500-Assignment1-Chp5.exe
+C:\Users\brand\Documents\Laptop School\NSCC\Y2S2\PROG2500-CSharp\PROG2500-Activity-1\PROG2500-Assignment1-Chp5\PROG2500-Assignment1-Chp5\obj\Debug\PROG2500-Assignment1-Chp5.pdb

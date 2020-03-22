@@ -1,0 +1,6 @@
+c:\users\brand\documents\visual studio 2015\Projects\PROG2500-Assignment1-A\PROG2500-Assignment1-A\bin\Debug\PROG2500-Assignment1-A.exe.config
+c:\users\brand\documents\visual studio 2015\Projects\PROG2500-Assignment1-A\PROG2500-Assignment1-A\bin\Debug\PROG2500-Assignment1-A.exe
+c:\users\brand\documents\visual studio 2015\Projects\PROG2500-Assignment1-A\PROG2500-Assignment1-A\bin\Debug\PROG2500-Assignment1-A.pdb
+c:\users\brand\documents\visual studio 2015\Projects\PROG2500-Assignment1-A\PROG2500-Assignment1-A\obj\Debug\PROG2500-Assignment1-A.csprojResolveAssemblyReference.cache
+c:\users\brand\documents\visual studio 2015\Projects\PROG2500-Assignment1-A\PROG2500-Assignment1-A\obj\Debug\PROG2500-Assignment1-A.exe
+c:\users\brand\documents\visual studio 2015\Projects\PROG2500-Assignment1-A\PROG2500-Assignment1-A\obj\Debug\PROG2500-Assignment1-A.pdb
